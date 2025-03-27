@@ -23,4 +23,10 @@ Acesse no navegador:
 ```
 http://localhost:4200/
 ```
-
+Equipe
+```sh
+Ian Carvalho;
+João Paulo;
+Enzo Franklin;
+Jonathas Sampaio.
+```
